@@ -1,10 +1,10 @@
 <!-- Banner or Hero Image (optional - replace with your own if desired) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Uvajanani;Software+Engineer+%7C+MERN;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Uvajanani;Software+Engineer+%7C+MERN;Welcome+to+my+GitHub+profile!"> 
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://tenor.com/nDcruYPxuAh.gif" width="300"/>
 </div>
 
 ---
