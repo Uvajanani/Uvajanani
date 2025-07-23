@@ -42,37 +42,4 @@ Learning:         AWS, Docker, System Design, Flutter
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> </p>
 "Crafting code that solves real problems and sparks innovation." 🚀
 
-yaml
-Copy
-Edit
-
----
-
-### 🔧 Next Steps for You:
-
-1. Replace:
-   - `YOUR_LINK` with your actual LinkedIn username.
-   - `YOUR_PORTFOLIO_LINK` with your portfolio (or GitHub Pages if you don't have one yet).
-   - `[Resume](#)` with a real resume URL (Google Drive or portfolio-hosted).
-
-2. Go to your special repo (`uvajanani`) → edit the `README.md` → paste the above.
-
-3. Commit and push the changes.
-
----
-
-Would you like me to:
-- Generate a final downloadable `.md` file for you?
-- Help you build a **personal portfolio site** to match your GitHub?
-
-Let me know!
-
-
-
-
-
-
-
-
-Ask ChatGPT
 
