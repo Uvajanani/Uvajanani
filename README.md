@@ -3,13 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Uvajanani;Software+Engineer+%7C+MERN;Welcome+to+my+GitHub+profile!"> 
 </p>
 
-<div align="center">
-  <img src="https://tenor.com/nDcruYPxuAh.gif" width="300"/>
-</div>
 
 ---
 
-<h3 align="center">💻 Full Stack Developer | 💡 Innovator | 🎯 DSA Enthusiast | ☁️ Cloud Explorer</h3>
+<h3 align="center"> MERN Stack Developer | DSA Enthusiast</h3>
 
 ---
 
@@ -21,11 +18,10 @@ Current Focus:    Building impactful full-stack & AI-driven applications
 Learning:         AWS, Docker, System Design, Flutter
 🔭 Building: AI-powered therapy tools, resume platforms, 3D learning tools
 
-💬 Ask Me About: MERN stack, Java, Firebase, ML, Project architecture
+💬 Ask Me About: MERN stack, Java
 
-📫 Reach me at: uvajanani@email.com
+📫 Reach me at: uvajanani24@gmail.com
 
-📄 Know more: View My Resume
 
 🔧 Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,express,mongodb,mysql,flask,html,css,javascript,tailwind,docker,aws,git,github,vscode" /> </p>
@@ -39,7 +35,6 @@ Learning:         AWS, Docker, System Design, Flutter
 <table> <tr> <td width="50%"> <h4>🧠 AI Overthinking Recovery App</h4> <ul> <li>Emotion detection from voice/text</li> <li>Personalized AI storytelling</li> <li>Flask + MERN + ML model integration</li> </ul> </td> <td width="50%"> <h4>🍔 FindWay – Food Delivery</h4> <ul> <li>Admin & User Dashboard</li> <li>Stripe integration</li> <li>MERN Stack project</li> </ul> </td> </tr> <tr> <td width="50%"> <h4>💬 Real-Time Chat App</h4> <ul> <li>Instant messaging, images & videos</li> <li>Chat history, profile editing</li> <li>React + Socket.IO + Firebase</li> </ul> </td> <td width="50%"> <h4>🎓 EduSpark – 3D Learning Platform</h4> <ul> <li>Gamified 3D learning with Blender</li> <li>React + WebGL + MongoDB</li> <li>Educational innovation</li> </ul> </td> </tr> </table>
 📬 Let's Connect!
 <p align="center"> <a href="mailto:uvajanani@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/YOUR_LINK/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white"/></a> </p>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> </p>
-"Crafting code that solves real problems and sparks innovation." 🚀
+
 
 
