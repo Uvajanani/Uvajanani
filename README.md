@@ -13,9 +13,8 @@
 ## 💫 About Me
 Name:             Uvajanani
 Role:             Aspiring Software Engineer
-Interests:        MERN Stack | AI/ML | System Design | DevOps | Flutter
+Interests:        MERN Stack | System Design 
 Current Focus:    Building impactful full-stack & AI-driven applications
-Learning:         AWS, Docker, System Design, Flutter
 🔭 Building: AI-powered therapy tools, resume platforms, 3D learning tools
 
 💬 Ask Me About: MERN stack, Java
