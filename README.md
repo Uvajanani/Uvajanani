@@ -10,16 +10,16 @@
 
 ---
 
-## 💫 About Me
+## About Me
 Name:             Uvajanani
 Role:             Aspiring Software Engineer
-Interests:        MERN Stack | System Design 
-Current Focus:    Building impactful full-stack & AI-driven applications
-🔭 Building: AI-powered therapy tools, resume platforms, 3D learning tools
+Interests:        MERN Stack 
+Current Focus:    Building impactful full-stack applications
+Key Projects : AI-powered therapy tools, ATS Resume Checker and Builder Platforms
 
-💬 Ask Me About: MERN stack, Java
+Ask Me About: MERN stack, Java
 
-📫 Reach me at: uvajanani24@gmail.com
+Reach me at: uvajanani24@gmail.com
 
 
 🔧 Tech Toolbox
@@ -31,8 +31,64 @@ Current Focus:    Building impactful full-stack & AI-driven applications
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=uvajanani&theme=onedark&no-frame=true&row=1&column=7" /> </p>
 🌟 Featured Projects
-<table> <tr> <td width="50%"> <h4>🧠 AI Overthinking Recovery App</h4> <ul> <li>Emotion detection from voice/text</li> <li>Personalized AI storytelling</li> <li>Flask + MERN + ML model integration</li> </ul> </td> <td width="50%"> <h4>🍔 FindWay – Food Delivery</h4> <ul> <li>Admin & User Dashboard</li> <li>Stripe integration</li> <li>MERN Stack project</li> </ul> </td> </tr> <tr> <td width="50%"> <h4>💬 Real-Time Chat App</h4> <ul> <li>Instant messaging, images & videos</li> <li>Chat history, profile editing</li> <li>React + Socket.IO + Firebase</li> </ul> </td> <td width="50%"> <h4>🎓 EduSpark – 3D Learning Platform</h4> <ul> <li>Gamified 3D learning with Blender</li> <li>React + WebGL + MongoDB</li> <li>Educational innovation</li> </ul> </td> </tr> </table>
-📬 Let's Connect!
+<table>
+  <tr>
+    <td width="50%">
+      <h4>AI Overthinking Recovery App</h4>
+      <ul>
+        <li>Emotion detection from voice/text</li>
+        <li>Personalized AI storytelling</li>
+        <li>Flask + MERN + ML model integration</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>FindWay – Food Delivery</h4>
+      <ul>
+        <li>Admin & User Dashboard</li>
+        <li>Stripe integration</li>
+        <li>MERN Stack project</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>Real-Time Chat App</h4>
+      <ul>
+        <li>Instant messaging, images & videos</li>
+        <li>Chat history, profile editing</li>
+        <li>React + Socket.IO + Firebase</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>EduSpark – 3D Learning Platform</h4>
+      <ul>
+        <li>Gamified 3D learning with Blender</li>
+        <li>React + WebGL + MongoDB</li>
+        <li>Educational innovation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>ATS Resume Builder & Checker</h4>
+      <ul>
+        <li>ATS-friendly resume templates</li>
+        <li>Resume parser and scoring engine</li>
+        <li>React + Node.js + MongoDB</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>Spotify Clone</h4>
+      <ul>
+        <li>Playlist, album, and audio controls</li>
+        <li>Responsive music player UI</li>
+        <li>React + CSS + REST APIs</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+Let's Connect!
 <p align="center"> <a href="mailto:uvajanani24@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/uvajanani/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="https://uvajanani.github.io/Uva-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white"/></a> </p>
 
 
