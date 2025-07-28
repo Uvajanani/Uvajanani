@@ -31,62 +31,20 @@ Reach me at: uvajanani24@gmail.com
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=uvajanani&theme=onedark&no-frame=true&row=1&column=7" /> </p>
 🌟 Featured Projects
-<table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>AI Overthinking Recovery App</h4>
-      <ul>
-        <li>Emotion detection from voice/text</li>
-        <li>Personalized AI storytelling</li>
-        <li>Flask + MERN + ML model integration</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>FindWay – Food Delivery</h4>
-      <ul>
-        <li>Admin & User Dashboard</li>
-        <li>Stripe integration</li>
-        <li>MERN Stack project</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>Real-Time Chat App</h4>
-      <ul>
-        <li>Instant messaging, images & videos</li>
-        <li>Chat history, profile editing</li>
-        <li>React + Socket.IO + Firebase</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>EduSpark – 3D Learning Platform</h4>
-      <ul>
-        <li>Gamified 3D learning with Blender</li>
-        <li>React + WebGL + MongoDB</li>
-        <li>Educational innovation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>ATS Resume Builder & Checker</h4>
-      <ul>
-        <li>ATS-friendly resume templates</li>
-        <li>Resume parser and scoring engine</li>
-        <li>React + Node.js + MongoDB</li>
-      </ul>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 10px;">
-      <h4>Spotify Clone</h4>
-      <ul>
-        <li>Playlist, album, and audio controls</li>
-        <li>Responsive music player UI</li>
-        <li>React + CSS + REST APIs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🌟 Featured Projects
+
+| **AI Overthinking Recovery App** | **FindWay – Food Delivery** |
+|----------------------------------|------------------------------|
+| • Emotion detection from voice/text  <br> • Personalized AI storytelling <br> • Flask + MERN + ML model integration | • Admin & User Dashboard <br> • Stripe integration <br> • MERN Stack project |
+
+| **Real-Time Chat App** | **EduSpark – 3D Learning Platform** |
+|------------------------|--------------------------------------|
+| • Instant messaging, images & videos <br> • Chat history, profile editing <br> • React + Socket.IO + Firebase | • Gamified 3D learning with Blender <br> • React + WebGL + MongoDB <br> • Educational innovation |
+
+| **ATS Resume Builder & Checker** | **Spotify Clone** |
+|------------------------------|-------------------|
+| • ATS-friendly resume templates <br> • Resume parser and scoring engine <br> • React + Node.js + MongoDB | • Playlist, album, and audio controls <br> • Responsive music player UI <br> • React + CSS + REST APIs |
+
 
 
 Let's Connect!
