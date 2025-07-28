@@ -31,9 +31,9 @@ Reach me at: uvajanani24@gmail.com
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=uvajanani&theme=onedark&no-frame=true&row=1&column=7" /> </p>
 🌟 Featured Projects
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>AI Overthinking Recovery App</h4>
       <ul>
         <li>Emotion detection from voice/text</li>
@@ -41,7 +41,7 @@ Reach me at: uvajanani24@gmail.com
         <li>Flask + MERN + ML model integration</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>FindWay – Food Delivery</h4>
       <ul>
         <li>Admin & User Dashboard</li>
@@ -51,7 +51,7 @@ Reach me at: uvajanani24@gmail.com
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>Real-Time Chat App</h4>
       <ul>
         <li>Instant messaging, images & videos</li>
@@ -59,7 +59,7 @@ Reach me at: uvajanani24@gmail.com
         <li>React + Socket.IO + Firebase</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>EduSpark – 3D Learning Platform</h4>
       <ul>
         <li>Gamified 3D learning with Blender</li>
@@ -69,7 +69,7 @@ Reach me at: uvajanani24@gmail.com
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>ATS Resume Builder & Checker</h4>
       <ul>
         <li>ATS-friendly resume templates</li>
@@ -77,7 +77,7 @@ Reach me at: uvajanani24@gmail.com
         <li>React + Node.js + MongoDB</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" style="vertical-align: top; padding: 10px;">
       <h4>Spotify Clone</h4>
       <ul>
         <li>Playlist, album, and audio controls</li>
@@ -87,6 +87,7 @@ Reach me at: uvajanani24@gmail.com
     </td>
   </tr>
 </table>
+
 
 Let's Connect!
 <p align="center"> <a href="mailto:uvajanani24@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/uvajanani/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a> <a href="https://uvajanani.github.io/Uva-Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white"/></a> </p>
